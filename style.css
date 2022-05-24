@@ -85,11 +85,11 @@
    
 
 .home{
-    background-image: url("./assets/img/backgr.png");
+    background-image: url("assets/img/backgr.png");
     background-size:auto;
 }
 body{
-    background-image: url("./assets/img/backgr.png");
+    background-image: url("assets/img/backgr.png");
     background-size:auto;
     
 }
